@@ -55,3 +55,12 @@ indent of the first line of the code.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Aug 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.1-2
++ Revision: 813616
+- Update to latest release.
+- Import texlive-lstaddons
+- Import texlive-lstaddons
+
