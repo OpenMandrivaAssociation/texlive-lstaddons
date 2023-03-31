@@ -1,6 +1,6 @@
 Name:		texlive-lstaddons
 Version:	64967
-Release:	1
+Release:	2
 Summary:	Add-on packagvess for listings: autogobble and line background
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lstaddons
